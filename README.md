@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on becoming the best version of myself<br>👯 I'm looking to collaborate with like-minded individuals on exciting projects<br>🤝 I'm seeking mentorship to enhance my programming skills<br>🌱 I'm currently learning the intricacies of machine learning and data science<br>💬 Ask me about Artificial Intelligence and its potential to reshape our future<br>⚡ Fun fact: I once debugged code in my sleep (or so I'd like to believe!)
+🔭 I'm currently working on becoming the best version of myself<br>👯 I'm looking to collaborate with like-minded individuals on exciting projects<br>🤝 I'm seeking mentorship to enhance my programming skills<br>🌱 I'm currently learning the intricacies of machine learning and data science<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact: You can call me GWAPO|POGI
 
 
 ## 🌐 Socials:
@@ -22,4 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sidney John) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]
