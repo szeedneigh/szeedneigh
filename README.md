@@ -45,6 +45,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## X
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=szeedneigh&theme=radical&response=false&border=true&time=false&icon=code"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=radical&combine_all_yearly_contributions=true)
