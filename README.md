@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on becoming the best version of myself<br>👯 I'm looking to collaborate with like-minded individuals on exciting projects<br>🤝 I'm seeking mentorship to enhance my programming skills<br>🌱 I'm currently learning the intricacies of Human Psychology<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact: PHILANTROPHIST GOOD LOOKNG TRILLIONARE
+🔭 I'm currently working on becoming the best version of myself<br>👯 I'm looking to collaborate with like-minded individuals on exciting projects<br>🤝 I'm seeking mentorship to enhance my programming skills<br>🌱 I'm currently learning the intricacies of Human Psychology<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact: PHILANTROPHIST GOOD LOOKING TRILLIONARE
 
 
 ## 🌐 Socials:
