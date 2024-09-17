@@ -3,7 +3,7 @@
 <p align="center"> Are you lost baby girl?</p>
 <p align="center">Philanthropist Good Looking Trillionaire</p>
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szeedneigh)</p> 
+<a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
 
 # 💻 Tech Stack:
 
