@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Sidney John </br> 
 </h1>
-<p align="center"> Are you lost baby girl?</p>
 <p align="center">Philanthropist Good Looking Trillionaire</p>
 <p align="center">
-<a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a><a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
+<a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
 
 # 💻 Tech Stack:
 
