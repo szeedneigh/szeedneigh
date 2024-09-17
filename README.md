@@ -1,9 +1,9 @@
-# 💫 About Me:
-🔭 I'm currently working on becoming the best version of myself<br>👯 I'm looking to collaborate with like-minded individuals on exciting projects<br>🤝 I'm seeking mentorship to enhance my programming skills<br>🌱 I'm currently learning the intricacies of Human Psychology<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact: PHILANTROPHIST GOOD LOOKING TRILLIONARE
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SydneyJohn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szeedneigh) 
+<h1 align="center"> Hi 👋🏻, I'm Sidney John </br> 
+</h1>
+<p align="center"> Are you lost baby girl?</p>
+<p align="center">Philanthropist Good Looking Trillionaire</p>
+<p align="center">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/szeedneigh)</p> 
 
 # 💻 Tech Stack:
 
