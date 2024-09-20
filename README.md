@@ -5,6 +5,19 @@
 <a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
 
+
+## 👨‍💻 Deployments
+
+### Vite-React
+[Vite-React](https://vite-react-omega-plum.vercel.app/)
+Vite Next Generation Frontend Tooling and React the library for web and native user interfaces
+
+### NextJS AI Chatbot
+[NextJS-AI_Chatbot](https://nextjs-chat-nu-wine.vercel.app/)
+This is an open source AI chatbot app template built with Next.js, the Vercel AI SDK, and Vercel KV. It uses React Server Components to combine text with generative UI as output of the LLM. 
+The UI state is synced through the SDK so the model is aware of your interactions as they happen.
+
+
 # 💻 Tech Stack:
 
 ## Language
