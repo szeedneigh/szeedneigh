@@ -9,11 +9,11 @@
 ## 👨‍💻 Deployments
 
 ### Vite-React
-[Vite-React](https://vite-react-omega-plum.vercel.app/)
+[Vite-React](https://github.com/szeedneigh/vite-react)
 Vite Next Generation Frontend Tooling and React the library for web and native user interfaces
 
 ### Next.JS AI Chatbot
-[NextJS-AI_Chatbot](https://nextjs-chat-nu-wine.vercel.app/)
+[NextJS-AI_Chatbot](https://github.com/szeedneigh/nextjs-chat)
 This is an open source AI chatbot app template built with Next.js, the Vercel AI SDK, and Vercel KV. It uses React Server Components to combine text with generative UI as output of the LLM. 
 The UI state is synced through the SDK so the model is aware of your interactions as they happen.
 
