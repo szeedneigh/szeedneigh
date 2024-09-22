@@ -19,7 +19,7 @@ The UI state is synced through the SDK so the model is aware of your interaction
 
 ### Morphic AI Engine
 [Generative AI](https://github.com/szeedneigh/morphic-ai-answer-engine-generative-ui)
-This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platforms. 
+This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platform. 
 
 ## 💻 Tech Stack:
 
