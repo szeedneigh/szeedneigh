@@ -17,6 +17,9 @@ Vite Next Generation Frontend Tooling and React the library for web and native u
 This is an open source AI chatbot app template built with Next.js, the Vercel AI SDK, and Vercel KV. It uses React Server Components to combine text with generative UI as output of the LLM. 
 The UI state is synced through the SDK so the model is aware of your interactions as they happen.
 
+### Morphic AI Engine
+[Generative AI](https://github.com/szeedneigh/morphic-ai-answer-engine-generative-ui)
+This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platforms. 
 
 ## 💻 Tech Stack:
 
