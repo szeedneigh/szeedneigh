@@ -5,6 +5,7 @@
 <a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
 
+[![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 👨‍💻 Deployments
 
@@ -51,7 +52,7 @@ This is a cloned project from Vercel community. This is to showcase the work of 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -61,14 +62,9 @@ This is a cloned project from Vercel community. This is to showcase the work of 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### X
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=szeedneigh&theme=vision-friendly-dark&response=false&border=true&time=false&icon=code"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)] 
