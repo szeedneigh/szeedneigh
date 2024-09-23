@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 Deployments
+## 📤 Deployments
 
 ### Vite-React
 [Vite-React](https://github.com/szeedneigh/vite-react)
@@ -20,7 +20,15 @@ The UI state is synced through the SDK so the model is aware of your interaction
 
 ### Morphic AI Engine
 [Generative AI](https://github.com/szeedneigh/morphic-ai-answer-engine-generative-ui)
-This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platform. 
+This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platform.
+
+## 👨🏼‍💻 Projects
+
+### Profile
+[]()
+This is my profile project for Web Development. In this project you can see my interests and basic informations. 
+
+###
 
 ## 💻 Tech Stack:
 
