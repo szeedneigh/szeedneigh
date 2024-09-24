@@ -1,3 +1,5 @@
+![szeedneigh](https://socialify.git.ci/szeedneigh/szeedneigh/image?font=Source%20Code%20Pro&name=1&pattern=Charlie%20Brown&theme=Dark)
+
 <h1 align="center"> Hi 👋🏻, I'm Sidney John </br> 
 </h1>
 <p align="center">Philanthropist Good Looking Trillionaire</p>
