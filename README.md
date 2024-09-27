@@ -27,7 +27,7 @@ This is a cloned project from Vercel community. This is to showcase the work of 
 ## 👨🏼‍💻 Projects
 
 ### Personal Portfolio
-[]()
+[SMS](https://github.com/szeedneigh/personal-portfolio)
 Details about me 
 
 ### Profile
