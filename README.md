@@ -30,9 +30,6 @@ This is a cloned project from Vercel community. This is to showcase the work of 
 [SMS](https://github.com/szeedneigh/personal-portfolio)
 Details about me 
 
-### Profile
-[]()
-This is my profile project for Web Development. In this project you can see my interests and basic informations. 
 
 ## 💻 Tech Stack:
 
