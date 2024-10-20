@@ -64,20 +64,17 @@ Details about me
 ## 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=szeedneigh&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?szeedneigh=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
+![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+</div>
