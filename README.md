@@ -1,7 +1,10 @@
 
 <h1 align="center"> Hi 👋🏻, I'm Sidney John </br> 
 </h1>
-<p align="center">Philanthropist Good Looking Trillionaire</p>
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=POPPINS&letterSpacing=1PX&pause=1000&color=65A6F7&center=true&vCenter=true&width=435&lines=Philanthropist+Good+Looking+Trillionaire)](https://git.io/typing-svg)
+</p>
 <p align="center">
 <a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
