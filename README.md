@@ -62,9 +62,13 @@ Details about me
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=szeedneigh&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
