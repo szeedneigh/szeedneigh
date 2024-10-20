@@ -87,13 +87,14 @@
 
 <div align="center">
   <a href="https://github.com/szeedneigh">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
   </a>
 </div>
+
 <p align="center">
   <a href="https://github.com/szeedneigh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
   </a>
 </p>
 
