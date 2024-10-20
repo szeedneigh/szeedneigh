@@ -82,16 +82,21 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br/>
 [![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)
+</div>
+
+<p align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</p>
+
+<div align="center">
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
