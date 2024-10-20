@@ -86,17 +86,19 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)
+  <a href="https://github.com/szeedneigh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one dark pro" alt="szeedneigh"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one dark pro" alt="szeedneigh"/>
+  </a>
 </div>
-
 <p align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://github.com/szeedneigh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one dark pro" alt="szeedneigh" />
+  </a>
 </p>
 
 <div align="center">
+  
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
