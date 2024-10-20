@@ -19,7 +19,7 @@
 ### Language
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md&perline=5" />
+      <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md" />
     </a>
   </div>
 
@@ -29,7 +29,7 @@
 ### Frameworks, Platforms & Libraries
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,express,jquery,laravel,nodesjs&perline=4" />
+      <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,express,jquery,laravel,nodejs" />
     </a>
   </div>
 
