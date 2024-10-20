@@ -81,7 +81,7 @@
 <div align="center">
   
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=one_dark_prol&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
