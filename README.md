@@ -20,23 +20,23 @@
 ## 💻 Tech Stack:
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h4>Language</h4></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Language</h3></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Hosting | SaaS</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;"><h3>Hosting | SaaS</h3></td>
         <td><img src="https://skillicons.dev/icons?i=vercel,netlify,aws,firebase,heroku,oracle" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks, Platforms & Libraries</td>
-        <td><img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux" /></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Frameworks, Platforms & Libraries</h3></td>
+        <td><img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux,tailwind" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases | ORM</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Databases | ORM</h3></td>
         <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,postgres" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Design</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Design</h3></td>
         <td><img src="https://skillicons.dev/icons?i=autocad,figma,ai,ae,ps,webflow" /></td>
     </tr>
     <tr>
@@ -44,20 +44,20 @@
         <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,anaconda" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">CI | CD VCS:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>CI | CD, VCS</h3></td>
         <td><img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,docker" /></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>IDE's</h3></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,visualstudio,webstorm,sublime,replit"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Operating Systems</h3></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Other Tools</h3></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,bash,codepen,discord,gmail,instagram,powershell,stackoverflow,wordpress"/></td>
     </tr>
 </table>
 
