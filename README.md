@@ -33,21 +33,37 @@
 ### Frameworks, Platforms & Libraries
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs" />
+      <img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux" />
     </a>
   </div>
 
 ### Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=apache,nginx,oracle" />
+    </a>
+  </div>
 
 ### Databases | ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,postgres" />
+    </a>
+  </div>
 
 ### Design
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=autocad,figma,ai,ae,ps,webflow" />
+    </a>
+  </div>
 
 ### ML | DL
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,numpy,anaconda" />
+    </a>
+  </div>
 
 ### CI | CD VCS  
   <div align="center">
@@ -56,17 +72,21 @@
     </a>
   </div>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
 ### Others
+<div align="center">
+  
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=one_dark_pro&hide_border=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szeedneigh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 [![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
@@ -75,7 +95,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+
 </div>
