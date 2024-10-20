@@ -19,7 +19,7 @@
 ### Language
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,perl&perline=5" />
+      <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md&perline=5" />
     </a>
   </div>
 
@@ -27,7 +27,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Frameworks, Platforms & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,express,jquery,laravel,nodesjs&perline=4" />
+    </a>
+  </div>
 
 ### Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
