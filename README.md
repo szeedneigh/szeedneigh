@@ -14,28 +14,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📤 Deployments
-
-### Next.JS AI Chatbot
-[NextJS-AI_Chatbot](https://github.com/szeedneigh/nextjs-chat)
-This is an open source AI chatbot app template built with Next.js, the Vercel AI SDK, and Vercel KV. It uses React Server Components to combine text with generative UI as output of the LLM. 
-The UI state is synced through the SDK so the model is aware of your interactions as they happen.
-
-### Morphic AI Engine
-[Generative AI](https://github.com/szeedneigh/morphic-ai-answer-engine-generative-ui)
-This is a cloned project from Vercel community. This is to showcase the work of skilled programmers from Vercel, to promote the products of this hosting platform.
-
-## 👨🏼‍💻 Projects
-
-### Personal Portfolio
-[SMS](https://github.com/szeedneigh/personal-portfolio)
-Details about me 
-
-
 ## 💻 Tech Stack:
 
 ### Language
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java,java,js,php,cpp,ts,cs,html,css,&perline=5" />
+    </a>
+  </div>
 
 ### Hosting | SaaS
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -70,7 +56,7 @@ Details about me
 [![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
