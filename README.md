@@ -18,68 +18,48 @@
 [![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## 💻 Tech Stack:
-
-### Language
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md" />
-    </a>
-  </div>
-
-### Hosting | SaaS
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,firebase,heroku,oracle" />
-    </a>
-  </div>
-
-### Frameworks, Platforms & Libraries
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux" />
-    </a>
-  </div>
-
-### Servers
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apache,nginx,oracle" />
-    </a>
-  </div>
-
-### Databases | ORM
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,postgres" />
-    </a>
-  </div>
-
-### Design
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=autocad,figma,ai,ae,ps,webflow" />
-    </a>
-  </div>
-
-### ML | DL
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,anaconda" />
-    </a>
-  </div>
-
-### CI | CD VCS  
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,docker" />
-    </a>
-  </div>
-
-### Others
-<div align="center">
-  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-</div>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h4>Language</h4></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Hosting | SaaS</td>
+        <td><img src="https://skillicons.dev/icons?i=vercel,netlify,aws,firebase,heroku,oracle" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frameworks, Platforms & Libraries</td>
+        <td><img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases | ORM</td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,postgres" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Design</td>
+        <td><img src="https://skillicons.dev/icons?i=autocad,figma,ai,ae,ps,webflow" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>ML | DL</h3></td>
+        <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,anaconda" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">CI | CD VCS:</td>
+        <td><img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,docker" /></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDE's:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
+    </tr>
+</table>
 
 ## 📊 GitHub Stats:
 
