@@ -71,7 +71,7 @@ Details about me
 </div>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?szeedneigh=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
