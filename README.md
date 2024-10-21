@@ -77,9 +77,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
   </a>
 </p>
-  
-### 🏆 GitHub Trophies
+
 <div align="center">
+### 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
 
