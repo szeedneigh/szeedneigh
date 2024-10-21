@@ -77,16 +77,21 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
   </a>
 </p>
-
-<div align="center">
   
 ### 🏆 GitHub Trophies
+<p align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
+</p>
 
 ### ✍️ Random Dev Quote
+<p align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+<p align="center">
 
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+</p>
