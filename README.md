@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>IDE's</h3></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,visualstudio,webstorm,sublime,replit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,visualstudio,sublime,replit"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Operating Systems</h3></td>
