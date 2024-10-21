@@ -79,6 +79,7 @@
 </p>
 
 <div align="center">
+  
 ### 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
