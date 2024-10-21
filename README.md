@@ -79,19 +79,19 @@
 </p>
   
 ### 🏆 GitHub Trophies
-<p align="center">
+<div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
-</p>
+</div>
 
 ### ✍️ Random Dev Quote
-<p align="center">
+<div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</p>
+</div>
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+<div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-</p>
+</div>
