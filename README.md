@@ -62,8 +62,11 @@
 </table>
 
 ## 📊 GitHub Stats:
-
+<div align=""center>
+  
 [![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
+</div>
 
 <div align="center">
   <a href="https://github.com/szeedneigh">
@@ -81,5 +84,4 @@
   
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
 </div>
