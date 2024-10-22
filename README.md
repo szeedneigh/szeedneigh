@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats:
 <div align=""center>
   
-[![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="center">
