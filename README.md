@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋🏻, I'm Sidney John </br> 
+<h1 align="center"> The name is Sidney John </br> 
 </h1>
 <div align="center">
   
