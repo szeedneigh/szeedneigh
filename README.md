@@ -14,7 +14,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31mz4rhtl47nujvepbtcwhe5rlcm">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mz4rhtl47nujvepbtcwhe5rlcm" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31mz4rhtl47nujvepbtcwhe5rlcm&hide_top_tracks=1" alt="Data Card for Spotify">
 </a>
 
 </div>
