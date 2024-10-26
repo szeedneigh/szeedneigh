@@ -1,6 +1,4 @@
 
-<h1 align="center"> Hey there, the name is Sidney John </br> 
-</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=POPPINS&letterSpacing=1PX&pause=1000&color=65A6F7&center=true&vCenter=true&width=500&lines=Philanthropist+Good+Looking+Trillionaire)](https://git.io/typing-svg)
