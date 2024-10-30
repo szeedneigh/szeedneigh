@@ -19,8 +19,6 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ## 💻 Tech Stack:
 
 <table>
@@ -90,3 +88,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
+
