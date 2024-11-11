@@ -73,8 +73,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
   </a>
 </div>
-  
-![](https://github-contributor-stats.vercel.app/api?username=szeedneigh&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <a href="https://github.com/szeedneigh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
+  </a>
+</p>
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
