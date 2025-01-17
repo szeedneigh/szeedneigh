@@ -1,88 +1,185 @@
 
-<div align="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=POPPINS&letterSpacing=1PX&pause=1000&color=65A6F7&center=true&vCenter=true&width=500&lines=Philanthropist+Good+Looking+Trillionaire)](https://git.io/typing-svg)
-</div>
-<p align="center">
-<a href="https://twitter.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/szeedneigh" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p> 
-
+```typescript
+/** 
+ * @portfolio Szeedneigh
+ * @version 2.0.0
+ * @lastUpdated 2024-01-17
+ */
+```
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60" />&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
+</div>
+
+```typescript
+interface DeveloperProfile {
+  name: string;
+  title: string;
+  contact: ContactInfo;
+  skills: TechStack;
+}
+
+class ProfileBuilder implements DeveloperProfile {
+  readonly name = "Szeedneigh";
+  readonly title = "Full Stack Developer";
+```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Philanthropist+Good+Looking+Trillionare;AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-## 💻 Tech Stack:
+```typescript
+  readonly contact: ContactInfo = {
+    social: {
+      github: "szeedneigh",
+      twitter: "szeedneigh",
+      instagram: "szeedneigh"
+    }
+  }
+```
 
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Language</h3></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=py,java,js,php,cpp,ts,cs,html,css,md" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;"><h3>Hosting | SaaS</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=vercel,netlify,aws,firebase,heroku,oracle" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Frameworks, Platforms & Libraries</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=vite,react,angular,django,bootstrap,express,jquery,laravel,nodejs,redux,tailwind" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Databases | ORM</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,postgres" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Design</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=autocad,figma,ai,ae,ps,webflow" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>ML | DL</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,anaconda" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>CI | CD, VCS</h3></td>
-        <td><img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,docker" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>IDE's</h3></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,visualstudio,sublime,replit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Operating Systems</h3></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><h3>Other Tools</h3></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,bash,codepen,discord,gmail,instagram,powershell,stackoverflow,wordpress"/></td>
-    </tr>
+<div>
+  <a href="https://twitter.com/szeedneigh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://instagram.com/szeedneigh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+```typescript
+  readonly skills: TechStack = {
+```
+
+<table align="center">
+<tr>
+<td>
+
+```typescript
+languages: {
+  primary: [
+    "TypeScript",
+    "Python",
+    "JavaScript"
+  ],
+  secondary: [
+    "Java",
+    "C++",
+    "PHP"
+  ]
+}
+```
+
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,php" />
+</td>
+</tr>
+<tr>
+<td>
+
+```typescript
+frontend: {
+  frameworks: [
+    "React",
+    "Next.js",
+    "Vue",
+    "Angular"
+  ],
+  styling: [
+    "Tailwind",
+    "SCSS"
+  ]
+}
+```
+
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass" />
+</td>
+</tr>
+<tr>
+<td>
+
+```typescript
+backend: {
+  frameworks: [
+    "Node.js",
+    "Django",
+    "Express"
+  ],
+  databases: [
+    "MySQL",
+    "MongoDB"
+  ]
+}
+```
+
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb" />
+</td>
+</tr>
+<tr>
+<td>
+
+```typescript
+devops: {
+  cloud: [
+    "AWS",
+    "GCP",
+    "Azure"
+  ],
+  tools: [
+    "Docker",
+    "Kubernetes"
+  ]
+}
+```
+
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+</td>
+</tr>
 </table>
 
-## 📊 GitHub Stats:
-<div align=""center>
-  
-![](https://github-profile-trophy.vercel.app/?username=szeedneigh&theme=onedark&no-frame=true&no-bg=true)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+```typescript
+  readonly stats: GithubMetrics = {
+```
 
 <div align="center">
-  <a href="https://github.com/szeedneigh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=szeedneigh&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="szeedneigh"/>
-  </a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=tokyonight&hide_border=true" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/szeedneigh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&&theme=one_dark_pro&hide_border=true" alt="szeedneigh" />
-  </a>
-</p>
+```typescript
+  readonly currentlyPlaying: SpotifyTrack = {
+```
+
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+
+```typescript
+  }
+}
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=5&color=6)
+
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=2&color=0)](https://visitcount.itsvg.in)
-
