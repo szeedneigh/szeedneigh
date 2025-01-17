@@ -32,8 +32,8 @@ interface DeveloperProfile {
 }
 
 class ProfileBuilder implements DeveloperProfile {
-  readonly name = "Szeedneigh";
-  readonly title = "Philanthropist";
+  readonly name = "Sidney John Sarcia";
+  readonly title = "Philanthropist Good Looking Trillionaire";
 
   readonly contact: ContactInfo = {
     social: {
