@@ -1,21 +1,26 @@
-
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Philanthropist+Good+Looking+Trillionare;AI+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 ```typescript
 /** 
  * @portfolio Szeedneigh
  * @version 2.0.0
- * @lastUpdated 2024-01-17
+ * @lastUpdated 2025-01-17
  */
 ```
 <div align="center">
+
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60" />&nbsp;
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
+
 </div>
 
 ```typescript
@@ -28,13 +33,8 @@ interface DeveloperProfile {
 
 class ProfileBuilder implements DeveloperProfile {
   readonly name = "Szeedneigh";
-  readonly title = "Full Stack Developer";
+  readonly title = "Philanthropist";
 ```
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Philanthropist+Good+Looking+Trillionare;AI+Enthusiast)](https://git.io/typing-svg)
-
-</div>
 
 ```typescript
   readonly contact: ContactInfo = {
@@ -171,7 +171,7 @@ devops: {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ```typescript
   }
