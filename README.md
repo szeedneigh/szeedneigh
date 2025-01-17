@@ -132,7 +132,7 @@ backend: {
 ```typescript
 devops: {
   cloud: [
-    "AWS",
+    "Firebase",
     "GCP",
     "Azure"
   ],
@@ -145,7 +145,7 @@ devops: {
 
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,appwrite" />
+<img src="https://skillicons.dev/icons?i=firebase,gcp,azure,docker,appwrite" />
 </td>
 </tr>
 </table>
