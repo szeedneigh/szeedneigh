@@ -34,9 +34,7 @@ interface DeveloperProfile {
 class ProfileBuilder implements DeveloperProfile {
   readonly name = "Szeedneigh";
   readonly title = "Philanthropist";
-```
 
-```typescript
   readonly contact: ContactInfo = {
     social: {
       github: "szeedneigh",
