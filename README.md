@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Philanthropist+Good+Looking+Trillionare;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=Philanthropist+Good+Looking+Trillionaire;AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,7 +44,7 @@ class ProfileBuilder implements DeveloperProfile {
   }
 ```
 
-<div>
+<div align="center">
   <a href="https://twitter.com/szeedneigh">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
@@ -138,14 +138,14 @@ devops: {
   ],
   tools: [
     "Docker",
-    "Kubernetes"
+    "Appwrite"
   ]
 }
 ```
 
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,appwrite" />
 </td>
 </tr>
 </table>
@@ -171,11 +171,14 @@ devops: {
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mz4rhtl47nujvepbtcwhe5rlcm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
+
 ```typescript
   }
 }
 ```
-
+<div align="center">
+  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ![](https://visitcount.itsvg.in/api?id=szeedneigh&icon=5&color=6)
