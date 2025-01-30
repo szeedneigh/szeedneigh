@@ -58,97 +58,94 @@ class ProfileBuilder implements DeveloperProfile {
 ```
 
 <table align="center">
-<tr>
-<td>
-
-```typescript
-languages: {
-  primary: [
-    "TypeScript",
-    "Python",
-    "JavaScript"
-  ],
-  secondary: [
-    "Java",
-    "C++",
-    "PHP"
-  ]
-}
-```
-
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,php" />
-</td>
-</tr>
-<tr>
-<td>
-
-```typescript
-frontend: {
-  frameworks: [
-    "React",
-    "Next.js",
-    "Vue",
-    "Angular"
-  ],
-  styling: [
-    "Tailwind",
-    "SCSS"
-  ]
-}
-```
-
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass" />
-</td>
-</tr>
-<tr>
-<td>
-
-```typescript
-backend: {
-  frameworks: [
-    "Node.js",
-    "Django",
-    "Express"
-  ],
-  databases: [
-    "MySQL",
-    "MongoDB"
-  ]
-}
-```
-
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb" />
-</td>
-</tr>
-<tr>
-<td>
-
-```typescript
-devops: {
-  cloud: [
-    "Firebase",
-    "GCP",
-    "Azure"
-  ],
-  tools: [
-    "Docker",
-    "Appwrite"
-  ]
-}
-```
-
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=firebase,gcp,azure,docker,appwrite" />
-</td>
-</tr>
+  <tr>
+    <td>
+      <h3>Languages</h3>
+      <pre>
+      ```typescript
+      languages: {
+        primary: [
+          "TypeScript",
+          "Python",
+          "JavaScript"
+        ],
+        secondary: [
+          "Java",
+          "C++",
+          "PHP"
+        ]
+      }
+      </pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,php&perline=1" />
+    </td>
+    <td>
+      <h3>Frontend</h3>
+      <pre>
+      ```typescript
+      frontend: {
+        frameworks: [
+          "React",
+          "Next.js",
+          "Vue",
+          "Angular"
+        ],
+        styling: [
+          "Tailwind",
+          "SCSS"
+        ]
+      }
+      </pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass&perline=1" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Backend</h3>
+      <pre>
+      ```typescript
+      backend: {
+        frameworks: [
+          "Node.js",
+          "Django",
+          "Express"
+        ],
+        databases: [
+          "MySQL",
+          "MongoDB"
+        ]
+      }
+      </pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb&perline=1" />
+    </td>
+    <td>
+      <h3>DevOps</h3>
+      <pre>
+      ```typescript
+      devops: {
+        cloud: [
+          "Firebase",
+          "GCP",
+          "Azure"
+        ],
+        tools: [
+          "Docker",
+          "Appwrite"
+        ]
+      }
+      </pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase,gcp,azure,docker,appwrite&perline=1" />
+    </td>
+  </tr>
 </table>
+
 
 ```typescript
   readonly stats: GithubMetrics = {
