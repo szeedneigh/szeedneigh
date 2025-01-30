@@ -60,7 +60,6 @@ class ProfileBuilder implements DeveloperProfile {
 <table align="center">
   <tr>
     <td>
-      <h3>Languages</h3>
       <pre>
       ```typescript
       languages: {
@@ -81,7 +80,6 @@ class ProfileBuilder implements DeveloperProfile {
       <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,php&perline=1" />
     </td>
     <td>
-      <h3>Frontend</h3>
       <pre>
       ```typescript
       frontend: {
@@ -104,7 +102,6 @@ class ProfileBuilder implements DeveloperProfile {
   </tr>
   <tr>
     <td>
-      <h3>Backend</h3>
       <pre>
       ```typescript
       backend: {
@@ -124,7 +121,6 @@ class ProfileBuilder implements DeveloperProfile {
       <img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb&perline=1" />
     </td>
     <td>
-      <h3>DevOps</h3>
       <pre>
       ```typescript
       devops: {
@@ -145,6 +141,7 @@ class ProfileBuilder implements DeveloperProfile {
     </td>
   </tr>
 </table>
+
 
 
 ```typescript
