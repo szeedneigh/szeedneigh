@@ -137,6 +137,7 @@ class ProfileBuilder implements DeveloperProfile {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=tokyonight&hide_border=true" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szeedneigh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
