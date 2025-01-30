@@ -74,6 +74,7 @@ class ProfileBuilder implements DeveloperProfile {
           "PHP"
         ]
       }
+      ```
       </pre>
     </td>
     <td>
@@ -94,6 +95,7 @@ class ProfileBuilder implements DeveloperProfile {
           "SCSS"
         ]
       }
+      ```
       </pre>
     </td>
     <td>
@@ -115,6 +117,7 @@ class ProfileBuilder implements DeveloperProfile {
           "MongoDB"
         ]
       }
+      ```
       </pre>
     </td>
     <td>
@@ -134,6 +137,7 @@ class ProfileBuilder implements DeveloperProfile {
           "Appwrite"
         ]
       }
+      ```
       </pre>
     </td>
     <td>
