@@ -60,9 +60,7 @@ class ProfileBuilder implements DeveloperProfile {
 <table align="center">
   <tr>
     <td>
-      <pre>
-      ```typescript
-      languages: {
+      <pre><code>languages: {
         primary: [
           "TypeScript",
           "Python",
@@ -73,17 +71,13 @@ class ProfileBuilder implements DeveloperProfile {
           "C++",
           "PHP"
         ]
-      }
-      ```
-      </pre>
+      }</code></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=ts,py,js,java,cpp,php&perline=1" />
     </td>
     <td>
-      <pre>
-      ```typescript
-      frontend: {
+      <pre><code>frontend: {
         frameworks: [
           "React",
           "Next.js",
@@ -94,9 +88,7 @@ class ProfileBuilder implements DeveloperProfile {
           "Tailwind",
           "SCSS"
         ]
-      }
-      ```
-      </pre>
+      }</code></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass&perline=1" />
@@ -104,9 +96,7 @@ class ProfileBuilder implements DeveloperProfile {
   </tr>
   <tr>
     <td>
-      <pre>
-      ```typescript
-      backend: {
+      <pre><code>backend: {
         frameworks: [
           "Node.js",
           "Django",
@@ -116,17 +106,13 @@ class ProfileBuilder implements DeveloperProfile {
           "MySQL",
           "MongoDB"
         ]
-      }
-      ```
-      </pre>
+      }</code></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb&perline=1" />
     </td>
     <td>
-      <pre>
-      ```typescript
-      devops: {
+      <pre><code>devops: {
         cloud: [
           "Firebase",
           "GCP",
@@ -136,17 +122,13 @@ class ProfileBuilder implements DeveloperProfile {
           "Docker",
           "Appwrite"
         ]
-      }
-      ```
-      </pre>
+      }</code></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=firebase,gcp,azure,docker,appwrite&perline=1" />
     </td>
   </tr>
 </table>
-
-
 
 ```typescript
   readonly stats: GithubMetrics = {
