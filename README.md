@@ -116,7 +116,7 @@ class ProfileBuilder implements DeveloperProfile {
         cloud: [
           "Firebase",
           "GCP",
-          "Azure"
+          "Supabase"
         ],
         tools: [
           "Docker",
@@ -125,7 +125,7 @@ class ProfileBuilder implements DeveloperProfile {
       }</code></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase,gcp,azure,docker,appwrite&perline=1" />
+      <img src="https://skillicons.dev/icons?i=firebase,gcp,supabase,docker,appwrite&perline=1" />
     </td>
   </tr>
 </table>
