@@ -10,20 +10,7 @@
  * @version 2.0.0
  * @lastUpdated 2025-01-17
  */
-```
-<div align="center">
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
-
-</div>
-
-```typescript
 interface DeveloperProfile {
   name: string;
   title: string;
