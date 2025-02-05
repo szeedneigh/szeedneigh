@@ -86,12 +86,12 @@ class ProfileBuilder implements DeveloperProfile {
         ],
         styling: [
           "Tailwind",
-          "SCSS"
+          "Bootstrap"
         ]
       }</code></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass&perline=1" />
+      <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,bootstrap&perline=1" />
     </td>
   </tr>
   <tr>
