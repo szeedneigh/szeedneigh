@@ -123,6 +123,8 @@ class ProfileBuilder implements DeveloperProfile {
 
 <div align="center">
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4731090" style='border:none;'></iframe>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=szeedneigh&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=szeedneigh&theme=tokyonight&hide_border=true" />
